@@ -28,9 +28,10 @@ a{
 }
 
 .victor__box{
+    margin-left: 90px;
     display: flex;
     align-items: center;
-    text-align: left;
+    text-align: center;
     h1{
         color: #F1F2F4;
         font-size: 46px;
